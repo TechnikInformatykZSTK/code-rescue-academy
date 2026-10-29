@@ -31,3 +31,11 @@ Część lekcji omawia biblioteki i frameworki, a ich kompletne uruchamianie mo�
 ## Aktualizowanie
 
 Aby opublikować kolejną wersję, zastąp `index.html` nowym plikiem i wykonaj commit. Adres strony pozostanie taki sam. Przed zmianą wersji przetestuj kurs w przeglądarce i wykonaj kopię danych.
+
+## Przenoszenie postępów między urządzeniami
+
+W zakładce **Mapa kompetencji** można wyeksportować postępy do JSON i zaimportować je na drugim urządzeniu. Import zastępuje obecny zapis lokalny i wymaga potwierdzenia; wcześniej zaleca się eksport kopii zapasowej. Nie jest to automatyczna synchronizacja.
+
+## Formatowanie kodu
+
+Edytory misji, naprawiania kodu, laboratorium i egzaminu mają przyciski formatowania wcięć. W edytorach działa także Tab i automatyczne wcięcie po Enter.

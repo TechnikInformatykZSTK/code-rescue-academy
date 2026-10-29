@@ -27,3 +27,7 @@ Na początku udostępnij kurs jako materiał do samodzielnej nauki, bez ocen i k
 
 ## 6. Aktualizacje
 Podmieniaj `index.html` na nowszą wersję. Zostaw bez zmian klucze `localStorage` i identyfikatory lekcji, jeśli zależy Ci na zachowaniu postępów w obrębie tego samego adresu. Zmiana adresu strony lub przeniesienie z pliku lokalnego może spowodować, że wcześniejsze dane nie będą dostępne.
+
+## Aktualizacja już opublikowanej strony
+
+W repozytorium otwórz `index.html`, wybierz ikonę edycji (ołówek), a następnie wgraj nową wersję przez **Add file → Upload files** z zastąpieniem pliku (jeżeli GitHub na to pozwala) lub skorzystaj z GitHub Desktop. Najprościej w repozytorium usuń stary `index.html` i prześlij nowy plik o identycznej nazwie. Zachowaj repozytorium i adres strony; zapisane postępy pozostają w przeglądarce pod dotychczasowymi kluczami.
